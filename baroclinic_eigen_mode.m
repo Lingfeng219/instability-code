@@ -26,6 +26,12 @@ function [B, A, om, phi] = baroclinic_eigen_mode(u, v, rho, k, l, lat, z, alphax
 % Reference:
 % Feng 2024, JGR, Global Distribution and Seasonal Variations of 
 % Charney-type Submesoscale Baroclinic Instabilities (C-SBCIs)
+% Feng 2022, JGR, Seasonality of Four Types of Baroclinic Instability 
+% in the Global Oceans
+% Feng 2021, JGR, Four Types of Baroclinic Instability Waves in 
+% the Global Oceans and the Implications for the Vertical Structure 
+% of Mesoscale Eddies
+%
 %
 % Author: Chuanyu Liu, IOCAS
 % Date:   2025/03/19 (Updated for GitHub release)
